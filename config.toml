@@ -243,6 +243,11 @@ disqusShortname = "techqueria"
     name   = "Our Supporters"
     url    = "/supporters/"
 
+# Publications
+[[menu.main]]
+    name   = "Publications"
+    url    = "/press/publications"
+
 # Social Menu
 [[menu.social]]
     name       = "Twitter"
